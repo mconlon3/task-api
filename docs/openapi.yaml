@@ -50,7 +50,7 @@ paths:
                       type: string
                 example:
                   errors:
-                    - 'Completed may only be true or false'
+                    - 'Completed must be true or false'
 
     post:
       summary: Create a new task
