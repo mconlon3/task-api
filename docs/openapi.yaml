@@ -6,7 +6,7 @@ servers:
   - url: http://localhost:3000
     description: Local development server
   - url: https://task-api-service-pemv.onrender.com
-    description: Prodution server
+    description: Production server
 tags:
   - name: Tasks
     description: Task-related endpoints
